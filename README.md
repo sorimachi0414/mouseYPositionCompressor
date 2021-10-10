@@ -1,0 +1,2 @@
+# mouseYPositionCompressor
+mouseYPositionCompressor
